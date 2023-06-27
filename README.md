@@ -1,2 +1,2 @@
 # Project-for-learn
-learning JS from project
+applying new algorithms in SimNIBS to get a better result 
